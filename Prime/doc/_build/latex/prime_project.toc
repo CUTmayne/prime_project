@@ -1,0 +1,9 @@
+\babel@toc {english}{}
+\contentsline {chapter}{\numberline {1}Prime}{1}{chapter.1}% 
+\contentsline {section}{\numberline {1.1}generate module}{1}{section.1.1}% 
+\contentsline {section}{\numberline {1.2}primepackage package}{1}{section.1.2}% 
+\contentsline {subsection}{\numberline {1.2.1}Submodules}{1}{subsection.1.2.1}% 
+\contentsline {subsection}{\numberline {1.2.2}primepackage.primeio module}{1}{subsection.1.2.2}% 
+\contentsline {subsection}{\numberline {1.2.3}primepackage.primemodule module}{1}{subsection.1.2.3}% 
+\contentsline {subsection}{\numberline {1.2.4}Module contents}{1}{subsection.1.2.4}% 
+\contentsline {chapter}{\numberline {2}Indices and tables}{3}{chapter.2}% 
