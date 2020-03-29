@@ -6,9 +6,9 @@ def isPrime(n):
     
     """reads a natural number n and returns true if it is a prime number and false elsewise"""
     result = False;
-    if is_integer(n) == False:
+    if isinstance(n, int) == False:
         raise TypeError("Input is not an Integer.");
-    elif n >= 0:
+    elif n <= 0:
         raise ValueError("Input is zero or less.");
     elif n < 2:
         result = False;
